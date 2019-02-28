@@ -1,6 +1,6 @@
-# JAD Homwork
-## miniCAD
-## SQLite
+## JAD Homwork
+*miniCAD
+*SQLite
 
-# Principle of programming language
-## Madeuplanguage(MUA) interpreter
+## Principle of programming language
+*Madeuplanguage(MUA) interpreter
